@@ -1,5 +1,4 @@
 
-<h3 align="center">As a skilled programmer with expertise in C# Dotnet, WPF, Vuejs, Html, Css, Asp.net, and Xamarian, I am capable of developing high-quality web and mobile applications that are efficient, visually appealing, and user-friendly. With a passion for staying up-to-date on emerging technologies and a dedication to delivering exceptional results, I am committed to helping organizations achieve their software development goals.</h3>
 
 
 # 📊 GitHub Stats:
