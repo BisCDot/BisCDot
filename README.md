@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bắc</h1>
+
 <h3 align="center">As a skilled programmer with expertise in C# Dotnet, WPF, Vuejs, Html, Css, Asp.net, and Xamarian, I am capable of developing high-quality web and mobile applications that are efficient, visually appealing, and user-friendly. With a passion for staying up-to-date on emerging technologies and a dedication to delivering exceptional results, I am committed to helping organizations achieve their software development goals.</h3>
 
-- 🔭 I’m currently working on [e-commerce shop selling clothes](https://github.com/BisCDot/WebShop)
-
-- 🌱 I’m currently learning **vuejs**
-
-- 👯 I’m currently working on [MusicPlayerVuejs](https://github.com/BisCDot/MusicPlayerVuejs)
-
-- 👨‍💻 All of my projects are available at [https://github.com/BisCDot](https://github.com/BisCDot)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BisCDot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
